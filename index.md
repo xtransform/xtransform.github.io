@@ -9,8 +9,8 @@ layout: default
 ## Liebe Leute,
 
 das Thema Verkehr ist ja gerade sehr aktuell. Im städtischen
-Verkehr geht es dabei viel um Umverteilung von Verkehrsraum - _Autos nehmen viel
-Platz ein_ und das auch, wenn sie sich nicht bewegen: Autofahrer*innen sollten
+Verkehr geht es dabei viel um Umverteilung von Verkehrsraum - __Autos nehmen viel
+Platz ein__ und das auch, wenn sie sich nicht bewegen: Autofahrer*innen sollten
 für ihren Platzverbrauch in der Stadt zumindest bezahlen. Das tun sie in Berlin
 allerdings nur sehr selten und wenn, dann nur sehr wenig.
 
@@ -39,5 +39,6 @@ Es wird Getränke und etwas Kleines zu essen geben (bringt gerne auch etwas
 mit). Wir freuen uns über rege Teilnahme! Leitet die Einladung auch gerne an
 andere weiter, die interessiert sein könnten :) 
 
-Liebe Grüße
-
+  Liebe Grüße
+  <br/>
+  das Team von XTransform
