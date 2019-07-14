@@ -1,5 +1,16 @@
 title: Lasst uns Parkplätze zählen!
+site: https://xtransform.github.io
 description: Einladung zum ersten Treffen am 17.7.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-tactile
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
