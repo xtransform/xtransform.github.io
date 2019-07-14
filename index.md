@@ -35,7 +35,7 @@ unserem ersten öffentlichen Treffen:
 
 ## 17. Juli um 19Uhr, Open Knowledge Foundation, Singerstraße 109, 2. Stock, Berlin S & U Jannowtizbrücke.
 
-Es wird Getränkte und etwas Kleines zu essen geben (bringt gerne auch etwas
+Es wird Getränke und etwas Kleines zu essen geben (bringt gerne auch etwas
 mit). Wir freuen uns über rege Teilnahme! Leitet die Einladung auch gerne an
 andere weiter, die interessiert sein könnten :) 
 
