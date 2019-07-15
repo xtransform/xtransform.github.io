@@ -42,3 +42,7 @@ andere weiter, die interessiert sein könnten :)
   Liebe Grüße
   <br/>
   das Team von XTransform
+
+<div align="center">
+  <img src="/assets/images/xtransform-email.png">
+</div>
