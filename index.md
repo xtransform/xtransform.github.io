@@ -32,8 +32,7 @@ zusammen schauen, wie wir am besten eine berlin-weite Zählung organisieren
 können. Vielleicht mit einer App, über die Leute schnell und einfach die Zahl
 der Parkplätze in ihrer Straße übermitteln können? Um mitzumachen, kommt zu
 unserem ersten öffentlichen Treffen: 
-
-## 17. Juli um 19Uhr, Open Knowledge Foundation, Singerstraße 109, 2. Stock, Berlin S & U Jannowtizbrücke.
+## 17. Juli um 19Uhr, Open Knowledge Foundation, Singerstraße 109, 3. Stock, Berlin S & U Jannowtizbrücke.
 
 Es wird Getränke und etwas Kleines zu essen geben (bringt gerne auch etwas
 mit). Wir freuen uns über rege Teilnahme! Leitet die Einladung auch gerne an
