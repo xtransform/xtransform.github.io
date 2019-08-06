@@ -2,45 +2,17 @@
 layout: default
 ---
 
-# Lasst uns Parkplätze zählen! Einladung zum ersten Treffen am 17.7.
+# Lasst uns Parkplätze zählen! Einladung zum zweiten Treffen am 7.8.
 
 <p/>
 
-## Liebe Leute,
+Wo fängt man an die Parkplätze von Berlin zu zählen? Zählen wir auch in
+Kurzzeitparkzonen, Falschparkenden Autos und Supermarktparkplätze? Und wie
+finden wir überhaupt Mitstreiter*innen für unser kleines Projekt?
 
-das Thema Verkehr ist ja gerade sehr aktuell. Im städtischen
-Verkehr geht es dabei viel um Umverteilung von Verkehrsraum - __Autos nehmen viel
-Platz ein__ und das auch, wenn sie sich nicht bewegen: Autofahrer*innen sollten
-für ihren Platzverbrauch in der Stadt zumindest bezahlen. Das tun sie in Berlin
-allerdings nur sehr selten und wenn, dann nur sehr wenig.
-
-Es gibt jedoch __Bewegung in der Frage__: In Berlin hat sich der Senat jüngst dafür ausgesprochen,
-den Anteil der kostenpflichtigen Parkplätze in den Innenstadtbezirken zu
-erhöhen. Allerdings: Die finale Entscheidung hierüber liegt bei den Bezirken,
-und die sind nicht alle an Bord.
-
-Hier kommen wir ins Spiel. __Wir wollen Fakten und Argumente liefern__, die die
-Berliner Bezirke überzeugen, Parkgebühren einzuführen oder Parkraum anders zu
-nutzen. Dazu wollen wir herausfinden, wie viele Parkplätze es entlang der
-Berliner Straßen eigentlich gibt. Dazu gibt es nämlich kaum Zahlen. So könnten
-wir zum Beispiel zeigen, wieviel Geld den Bezirken durch kostenlose Parkplätze
-entgeht.
-
-__Wir brauchen Unterstützung__ um alle Parkplätze in ganz Berlin zu
-zählen. Wir sind derzeit nur sehr wenige und würden gern in einem ersten Schritt
-zusammen schauen, wie wir am besten eine berlin-weite Zählung organisieren
-können. Vielleicht mit einer App, über die Leute schnell und einfach die Zahl
-der Parkplätze in ihrer Straße übermitteln können? Um mitzumachen, kommt zu
-unserem ersten öffentlichen Treffen: 
-## 17. Juli um 19Uhr, Open Knowledge Foundation, Singerstraße 109, 3. Stock, Berlin S & U Jannowtizbrücke.
-
-Es wird Getränke und etwas Kleines zu essen geben (bringt gerne auch etwas
-mit). Wir freuen uns über rege Teilnahme! Leitet die Einladung auch gerne an
-andere weiter, die interessiert sein könnten :) 
-
-  Liebe Grüße
-  <br/>
-  das Team von XTransform
+Diese und andere Fragen wollen wir von ParkplatzTransform gemeinsam diskutieren
+bei unserem 2. Öffentlichen Treffen diesen **Mittwoch, 7.8. um 19h im CityLab
+Berlin, Platz der Luftbrücke 4, Gebäude H2rund, 12101 Berlin.** 
 
 <div align="center">
   <img src="/assets/images/xtransform-email.png">
